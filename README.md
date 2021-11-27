@@ -5,8 +5,7 @@ A simple lexer built in rust which uses the Logos crate
 ## To run :
 
 - Clone this repo
-- Do $cargo build to build stuff
-- Do $cargo run to run this
+- Do `cargo run`
 
 ## Outputs
 

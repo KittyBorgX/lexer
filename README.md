@@ -1,6 +1,6 @@
 # lexer
 
-A simple lexer built in rust which uses the Logos crate
+A simple lexer built in rust which uses the Logos crate and outputs a stream of tokens.
 
 ## To run :
 
